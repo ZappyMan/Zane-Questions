@@ -2,6 +2,16 @@
   "questions": [
     {
       "date": "2025-10-23",
+      "question": "I actually have a few questions ",
+      "answer": "Me too"
+    },
+    {
+      "date": "2025-10-23",
+      "question": "Do you have any more of these for sale ",
+      "answer": "I can sell you some of those if you want"
+    },
+    {
+      "date": "2025-10-23",
       "question": "When do you think you will? ",
       "answer": "Now"
     },
