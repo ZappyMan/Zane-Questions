@@ -2,6 +2,11 @@
   "questions": [
     {
       "date": "2025-10-27",
+      "question": "[color=#3bd464][scale=2]Test![/scale][/color]",
+      "answer": "Nice!!!!! [scalex=2]WOW![/scalex]"
+    },
+    {
+      "date": "2025-10-27",
       "question": "Am i cool",
       "answer": "Yes"
     },
