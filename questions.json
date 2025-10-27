@@ -2,11 +2,6 @@
   "questions": [
     {
       "date": "2025-10-27",
-      "question": "Test",
-      "answer": "[url=https://www.bbcode.org/]Testing something[/url]"
-    },
-    {
-      "date": "2025-10-27",
       "question": "Am i cool",
       "answer": "Yes"
     },
