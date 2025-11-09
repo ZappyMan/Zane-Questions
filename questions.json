@@ -1,6 +1,31 @@
 {
   "questions": [
     {
+      "date": "2025-11-05",
+      "question": "How are you doing today? :)",
+      "answer": "I'm feeling pretty good"
+    },
+    {
+      "date": "2025-11-05",
+      "question": "What is your first video?",
+      "answer": "It was not good"
+    },
+    {
+      "date": "2025-11-05",
+      "question": "Why do you make your vids funny",
+      "answer": "cuz it's funny"
+    },
+    {
+      "date": "2025-11-04",
+      "question": "Is the answer to this question yes?",
+      "answer": "Maybe"
+    },
+    {
+      "date": "2025-11-04",
+      "question": "so would you make videos and music and everything in widescreen instead of and standard screen?",
+      "answer": "I like 4:3, so most of my videos will probably be in that aspect ratio"
+    },
+    {
       "date": "2025-11-04",
       "question": "What's the meaning of life",
       "answer": "Whatever you decide it is"
