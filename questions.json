@@ -1,11 +1,6 @@
 {
   "questions": [
     {
-      "date": "2025-11-09",
-      "question": "Test",
-      "answer": "\"&random(0,100)&\""
-    },
-    {
       "date": "2025-11-06",
       "question": "Do you know any way of getting flipnote studio in 2025?",
       "answer": "A Nintendo 3DS and Homebrew"
