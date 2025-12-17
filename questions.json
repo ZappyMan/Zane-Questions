@@ -2,6 +2,11 @@
   "questions": [
     {
       "date": "2025-12-17",
+      "question": "Thanks for the Youtube information Zane, I really appreciate it! Also one more question, what animating software do you think would be best for a starter like me? I am currently using a coding app that you can also animate in, but its not the best.",
+      "answer": "It depends on what you feel most comfortable with! I always recommend Wick Editor for starters because it's free, online, and fairly easy to get started with."
+    },
+    {
+      "date": "2025-12-17",
       "question": "How are you?",
       "answer": "Pretty good"
     },
