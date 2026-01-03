@@ -1,6 +1,21 @@
 {
   "questions": [
     {
+      "date": "2026-01-02",
+      "question": "do you have a dog and if yes is it called tank?",
+      "answer": "I had a dog named Stewart"
+    },
+    {
+      "date": "2026-01-01",
+      "question": "Do you plan to make something like gooberbox again?",
+      "answer": "Yes"
+    },
+    {
+      "date": "2026-01-01",
+      "question": "is Zane a real entity that resides in this world",
+      "answer": "Yea"
+    },
+    {
       "date": "2025-12-31",
       "question": "what is one tip you have for adobe animate as i recently got it as a gift :)",
       "answer": "Look for an escape as soon as possible"
