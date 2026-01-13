@@ -1,6 +1,11 @@
 {
   "questions": [
     {
+      "date": "2026-01-12",
+      "question": "am i safe from you",
+      "answer": "no"
+    },
+    {
       "date": "2026-01-11",
       "question": "Question:",
       "answer": "Answer:"
