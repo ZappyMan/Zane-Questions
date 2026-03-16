@@ -1,6 +1,11 @@
 {
   "questions": [
     {
+      "date": "2026-03-16",
+      "question": "do you poop?",
+      "answer": "I have no idea"
+    },
+    {
       "date": "2026-03-13",
       "question": "Can you please fix the QnA, so we can be able to press enter for another sentence, Everytime i press Enter on mobile, it straights up gets out of the typebox, even me myself wanna type then enter for another sentence.",
       "answer": "You don't need to press enter to type another sentence. Don't press enter after every sentence why are you doing that?"
