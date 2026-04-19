@@ -1,6 +1,26 @@
 {
   "questions": [
     {
+      "date": "2026-04-17",
+      "question": "how much do you like peanut butter on a scale of 1 to 10",
+      "answer": "9"
+    },
+    {
+      "date": "2026-04-16",
+      "question": "What are your thoughts on Sora AI shutting down (I'm personally celebrating)",
+      "answer": "I think it bodes well for the bleak future of AI video generation"
+    },
+    {
+      "date": "2026-04-16",
+      "question": "Does the Nintendo DSi come with Flipnote pre-installed in this day and age, or is there no (legal) way to get it nowadays?",
+      "answer": "If it's used and not factory reset, it probably has Flipnote. But there are other ways to obtain it."
+    },
+    {
+      "date": "2026-04-16",
+      "question": "Do you like pancakes?",
+      "answer": "Yeah we like pancakes"
+    },
+    {
       "date": "2026-04-15",
       "question": "what kinda music do you like",
       "answer": "I like music with lots of interesting details and melodies"
