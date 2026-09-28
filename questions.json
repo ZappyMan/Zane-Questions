@@ -2,6 +2,16 @@
   "questions": [
     {
       "date": "2026-09-28",
+      "question": "import time\r\nuser = input(\"hi zane whats ur name \")\r\ntime.sleep(1)\r\nprint(\"hi, \" , user)",
+      "answer": "zane"
+    },
+    {
+      "date": "2026-09-28",
+      "question": "do you know what bonelab is",
+      "answer": "Yes"
+    },
+    {
+      "date": "2026-09-28",
       "question": "how to find creepypasta zane zanelittle.com 2026",
       "answer": "Become evil"
     },
