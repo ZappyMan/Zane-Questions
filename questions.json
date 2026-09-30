@@ -1,6 +1,16 @@
 {
   "questions": [
     {
+      "date": "2026-09-30",
+      "question": "Hey it's TheMartoon..what should I ask?",
+      "answer": "You should ask how you became so awesome"
+    },
+    {
+      "date": "2026-09-30",
+      "question": "oink",
+      "answer": "ouch"
+    },
+    {
       "date": "2026-09-28",
       "question": "import time\r\nuser = input(\"hi zane whats ur name \")\r\ntime.sleep(1)\r\nprint(\"hi, \" , user)",
       "answer": "zane"
