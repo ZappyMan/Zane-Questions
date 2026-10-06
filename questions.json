@@ -1,6 +1,11 @@
 {
   "questions": [
     {
+      "date": "2026-10-05",
+      "question": "what timezone are you in",
+      "answer": "PST"
+    },
+    {
       "date": "2026-10-04",
       "question": "can you make it so that you can submit groovy specimens",
       "answer": "I will be making interactive specimens eventually"
